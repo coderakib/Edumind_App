@@ -89,7 +89,7 @@ class _LearnerInstructorDetailScreenState
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "Robert Jenson",
+                        "Shreyash Jain",
                         style: GoogleFonts.poppins(
                             fontWeight: FontWeight.bold,
                             fontSize: width * 0.045,

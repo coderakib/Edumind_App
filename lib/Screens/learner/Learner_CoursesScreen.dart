@@ -241,7 +241,7 @@ class LearnerCoursesScreen extends StatelessWidget {
                                                 ),
                                               ),
                                               Text(
-                                                'Robert Jenson',
+                                                'Shreyash Jain',
                                                 textAlign: TextAlign.center,
                                                 style: GoogleFonts.poppins(
                                                     fontWeight: FontWeight.bold,

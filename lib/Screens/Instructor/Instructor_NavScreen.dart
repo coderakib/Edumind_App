@@ -74,7 +74,7 @@ class _InstructorNavScreenState extends State<InstructorNavScreen>
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Yash Patel',
+                            'coderakib',
                             style: GoogleFonts.poppins(
                                 fontWeight: FontWeight.bold,
                                 fontSize: width * 0.05,

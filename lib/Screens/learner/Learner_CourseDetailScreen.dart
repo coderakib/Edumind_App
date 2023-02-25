@@ -660,7 +660,7 @@ class _LearnerCourseDetailScreenState extends State<LearnerCourseDetailScreen>
                   mainAxisAlignment: MainAxisAlignment.start,
                   children: [
                     Text(
-                      'Robert Jenson',
+                      'Shreyash Jain',
                       style: GoogleFonts.poppins(
                           color: orange,
                           fontSize: width * 0.055,

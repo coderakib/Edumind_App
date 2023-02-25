@@ -243,7 +243,7 @@ class LearnerHomeScreen extends StatelessWidget {
             ),
           ),
           Text(
-            'Robert Jenson',
+            'Shreyash Jain',
             style: GoogleFonts.poppins(
                 fontWeight: FontWeight.bold,
                 fontSize: width * 0.035,
@@ -356,7 +356,7 @@ class CourseCard extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: width * 0.01),
                 child: Text(
-                  'Robert Jenson',
+                  'Shreyash Jain',
                   style: GoogleFonts.poppins(
                       fontWeight: FontWeight.bold,
                       fontSize: width * 0.02,

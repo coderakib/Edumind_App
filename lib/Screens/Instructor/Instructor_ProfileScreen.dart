@@ -61,7 +61,7 @@ class InstructorProfileScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Yash Patel',
+                            'coderakib',
                             style: GoogleFonts.poppins(
                                 fontWeight: FontWeight.bold,
                                 fontSize: width * 0.05,
@@ -93,7 +93,7 @@ class InstructorProfileScreen extends StatelessWidget {
                   child: Column(
                     children: [
                       TextFormField(
-                        initialValue: "Yash Patel",
+                        initialValue: "coderakib",
                         readOnly: true,
                         enabled: true,
 

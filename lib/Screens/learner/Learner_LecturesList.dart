@@ -199,7 +199,7 @@ class LearnerLecturesListScreen extends StatelessWidget {
                                       MainAxisAlignment.spaceBetween,
                                   children: [
                                     Text(
-                                      "Robert Jenson",
+                                      "Shreyash Jain",
                                       style: GoogleFonts.poppins(
                                           fontWeight: FontWeight.bold,
                                           fontSize: width * 0.02,
